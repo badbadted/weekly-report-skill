@@ -2,6 +2,8 @@
 
 Claude Code 的週報助手 Skill。貼上上週週報，自動滾動生成本週版本，你只需回報差異。
 
+> **[線上安裝與使用指南](https://badbadted.github.io/weekly-report-skill/guide.html)**
+
 ## 功能
 
 - 自動從上週週報滾動生成本週初始版本
